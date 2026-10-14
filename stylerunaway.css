@@ -1,0 +1,11 @@
+#hi{
+    background-color: rgb(160, 95, 95);
+    font-size: larger;
+    font-family: monospace;
+    position:fixed;
+    
+}
+
+body{
+    background-color: black;
+}
